@@ -1,6 +1,5 @@
-<!--
-[![Header](assets/header.jpg)]()
--->
+[![Header](https://github.com/drRoccat/drRoccat/blob/main/assets/header.jpg)]()
+
 ### Professional Summary:
 
 Web Developer specialized in frontend development with a slight indentation in the backend. Experienced with all stages of the development cycle for web projects.
